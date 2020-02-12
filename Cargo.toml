@@ -1,9 +1,24 @@
 [package]
 name = "encrypt"
 version = "0.1.0"
-authors = ["陶辰 <chen.tao@ifchange.com>"]
+authors = ["ptechen <ptechen@github.com>"]
 edition = "2018"
-
+homepage = "https://github.com/ptechen"
+documentation = "https://github.com/ptechen/encrypt/blob/master/README.md"
+repository = "https://github.com/ptechen/encrypt.git"
+description = ''''''
+license-file = "license"
+readme = "README.md"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+structopt = "0.3.8"
+md5 = "0.7.0"
+digest = "0.8.1"
+convert = "0.2.0"
+failure = "0.1.6"
+exitfailure = "0.5.1"
+serde_json = "1.0.44"
+exitcode = "1.1.2"
+quicli = "0.4.0"
+rust-crypto = "0.2.36"
