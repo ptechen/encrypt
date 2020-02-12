@@ -2,7 +2,7 @@
 
 [![Version info](https://img.shields.io/crates/v/encrypt.svg)](https://crates.io/crates/encrypt)
 
-Support md5 & sha1 & sha2 & sha3 encryption
+Support md5 & sha1 & sha2 & sha3 encryption for file and string.
 
 Install:
 
