@@ -1,6 +1,6 @@
 # Encrypt Command Line Tool
 
-[![Version info](https://img.shields.io/crates/v/encrypt.svg)](https://crates.io/crates/enrypt)
+[![Version info](https://img.shields.io/crates/v/encrypt.svg)](https://crates.io/crates/encrypt)
 
 Support md5 & sha1 & sha2 & sha3 encryption
 
