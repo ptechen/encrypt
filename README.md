@@ -1,5 +1,5 @@
 # Encrypt Command Line Tool
-
+Support md5 & sha1 & sha2 & sha3 encryption
 [![Version info](https://img.shields.io/crates/v/encrypt.svg)](https://crates.io/crates/enrypt)
 
 Install:
