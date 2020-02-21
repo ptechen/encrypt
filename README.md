@@ -39,7 +39,7 @@ SUBCOMMANDS:
 
 USAGE:
 
-    encrypt func [OPTIONS] --input <input>
+    encrypt <SUBCOMMAND> [OPTIONS] --input <input>
 
 FLAGS:
 
